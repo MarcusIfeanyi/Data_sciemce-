@@ -1,1 +1,1 @@
-This Repository shows the projects, codes and dashboards of projects done in the cause of studing data science using Coursera as a platform
+This repository showcases the projects, codebase, and project dashboards completed during the pursuit of a data science education through the Coursera platform.
